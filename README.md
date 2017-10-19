@@ -2,20 +2,20 @@
 
 > A Vue.js project
 
-## Build Setup
+## 启动项目
 
-``` bash
-# install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
+通过 [http://127.0.0.1:8080](http://127.0.0.1:8080) 访问
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+##项目简介
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+使用vue实现的简单书城，模拟后端数据放在db.json文件里，用axios请求数据
+
+![截图](./screenshots/1.png)
+![截图](./screenshots/2.png)
+![截图](./screenshots/3.png)
+
+
