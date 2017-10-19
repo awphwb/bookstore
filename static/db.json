@@ -1,0 +1,48 @@
+{
+  "newList": [
+    {
+      "id": 1,
+      "title": "新消息1",
+      "url": "#"
+    },
+    {
+      "id": 2,
+      "title": "新消息2",
+      "url": "#"
+    },
+    {
+      "id": 3,
+      "title": "新消息3",
+      "url": "#"
+    }
+  ],
+  "login": {
+    "username": "admin",
+    "password": "Abc123!"
+  },
+  "getBookList": {
+    "list": [
+      {
+        "bookId" : "cxl123",
+        "bookName": "cxl",
+        "buyType": "典藏版",
+        "buyNum": "1",
+        "amount": "40元"
+      },
+      {
+        "bookId" : "zbl123",
+        "bookName": "zbl",
+        "buyType": "精装版",
+        "buyNum": "1",
+        "amount": "25元"
+      },
+      {
+        "bookId" : "dwzy123",
+        "bookName": "dwzy",
+        "buyType": "普通版",
+        "buyNum": "2",
+        "amount": "30元"
+      }
+    ]
+  }
+}
